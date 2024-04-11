@@ -5,9 +5,9 @@ Customer segmentation is a crucial strategy for businesses aiming to understand 
 
 This project focuses on analyzing customer behavior and classifying customers based on their likelihood to accept marketing campaigns. The dataset contains diverse information about customers, including demographic details, purchasing history, and responses to various marketing campaigns. The primary goal is to understand customer segments and their responsiveness to campaigns.
 
-# Key Components:  
+## Key Components:  
 
-## Data Preprocessing:
+### Data Preprocessing:
 Clean and prepare the dataset for segmentation.
 
 ## Data Understanding
